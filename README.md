@@ -1,6 +1,10 @@
 # TiberianSunRu
 Руссификатор для C&amp;C: Tiberian Sun
 
-Основная цель - локализация клиента от Rampastring'а, потом уже Tiberian Sun Online, и в последнюю очередь уже оригинальной игры.
+Основной целью является локализация разных видов клиентов, которых, увы, к последнему времени стало очень много. Пока приоритетными клиентами для локализации являются:
+
+	1) Tiberian Sun Online                     : https://cncnet.org/tiberian-sun
+	2) Tiberian Sun Client                     : https://www.moddb.com/mods/tiberian-sun-client
+	3) Tiberian Sun из C&C Ultimate Collection : https://www.origin.com/nld/ru-ru/store/command-and-conquer/command-and-conquer-the-ultimate-collection
 
 Все вопросы и пожелания вы можете отправлять на почту: *mah.boi.translator@gmail.com*
