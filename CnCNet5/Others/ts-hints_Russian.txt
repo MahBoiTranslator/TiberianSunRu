@@ -1,19 +1,19 @@
-Use the "Q" hotkey to move and fire at the same time. You can also give multiple move commands with the "Q" hotkey.
-Building on low power is %50 slower.
-A full Harvester of green tiberium is worth $750, a Harvester of blue tiberium $1120.
+Используйте клавишу Q, чтобы отдавать приказ войскам атаковать на ходу. Также вы можете задавать маршрут войскам, используя эту клавишу.
+Строительство замедлено вдвое, если у вас нехватка энергии.
+Комбайн, наполненный зелёным тиберием, приносит $750, а, наполненный синим тиберием, приносит $1120.
 After technology is acquired, you can sell it. You don't have to keep it in order to keep its technology. Although if the structure that gained its technology is destroyed, both the structure and the tech structure need to be rebuilt.
-A Disruptor does more damage when shooting diagonally through buildings. If angled correctly, it can one-shot Refineries and War Factories.
-By using ALT, you can issue a force move command. When paired with ground vehicles, you can use a force move command to squish infantry.
-Building a Harvester costs $1400. Building a Refinery and selling it afterwards costs only $1000. Depending on what you're doing, building a Refinery instead is generally more efficient.
+Дезинтегратор может нанести больше урона зданиям, если будет стрелять по диагонали сквозь здания. Если вы сделали всё правильно, то он может с одного выстрела уничтожить Обогатитель и Военный Завод.
+Используя Alt вы можете дать приказ вынужденного перемещения. В паре с наземной техникой, вы можете использовать эту команду для того, чтобы давить пехоту.
+Комбайн стоит $1400. А строительство Обогатителя и затем его продажа обойдётся в $1000, и даст вам Комбайн. Расчитывайте на то, что такой способ получения дополнительного Комбайна выгоднее.
 After giving your Carryall the command to land on a unit, you can order that unit to fire at a target, so it will keep firing until the Carryall lands. It will also start shooting right after being released again.
 Orca Bombers tend to waste a lot of bombs when being told to attack a building. You can "power bomb" by flying them close to the building first, and then attacking it.
 Use CTRL to force fire. You can use force fire to extend the range of Disc Throwers.
 Select a production building and hold ALT to create a rally point.
 3 Light Infantry can kill a single Light Infantry walking by.
 If you want to protect your base from Disruptor drops with RPGs, place them a couple of cells apart so that they cover each others blind spots.
-5 Banshees can one shot a Disruptor.
-10 Banshees can destroy a main building (Construction Yard/War Factory/Refinery) in one shot.
-3 Engineers can steal an opponents building when multi-engineer is on (EMPs cannot be captured).
+5 Банши за один залёт уничтожают Дезинтегратор.
+10 Банши за один залёт могут уничтожить Строительный Цех/Военный Завод/Обогатитель.
+3 Инженера могут захватить здание противника, если был включён режим Multi-engineer (ЭМИ Орудие не может быть захвачено).
 Using G while having a group of units select puts them into Guard mode. Units in Guard mode will automatically seek targets that are nearby.
 You can sell vehicles by placing them onto your, or your an ally's, Service Depot. Once they're on the Service Depot, sell them like you would normally a structure, except this time wait for the green dollar sign to show before selling.
 Place a building underneathe a landing enemy Carryall to temporarily prevent it from landing.
