@@ -7,7 +7,7 @@ After technology is acquired, you can sell it. You don't have to keep it in orde
 Комбайн стоит $1400. А строительство Обогатителя и затем его продажа обойдётся в $1000, и даст вам Комбайн. Расчитывайте на то, что такой способ получения дополнительного Комбайна выгоднее.
 After giving your Carryall the command to land on a unit, you can order that unit to fire at a target, so it will keep firing until the Carryall lands. It will also start shooting right after being released again.
 Orca Bombers tend to waste a lot of bombs when being told to attack a building. You can "power bomb" by flying them close to the building first, and then attacking it.
-Use CTRL to force fire. You can use force fire to extend the range of Disc Throwers.
+Используйте Ctrl для вынужденной атаки. Вы можете использовать это для увеличения дальности атаки Дискомётчиков.
 Выберите производственное здание, зажмите Alt, и кликните ЛКМ по свободному месту, чтобы поставить точку сбора (устарело, теперь Alt не требуется).
 3 Лёгких Пехотинца могут убить пробегающего мимо Лёгкого Пехотинца.
 If you want to protect your base from Disruptor drops with RPGs, place them a couple of cells apart so that they cover each others blind spots.
@@ -16,16 +16,16 @@ If you want to protect your base from Disruptor drops with RPGs, place them a co
 3 Инженера могут захватить здание противника, если был включён режим Multi-engineer (ЭМИ Орудие не может быть захвачено).
 Using G while having a group of units select puts them into Guard mode. Units in Guard mode will automatically seek targets that are nearby.
 You can sell vehicles by placing them onto your, or your an ally's, Service Depot. Once they're on the Service Depot, sell them like you would normally a structure, except this time wait for the green dollar sign to show before selling.
-Place a building underneathe a landing enemy Carryall to temporarily prevent it from landing.
-Harvesters full of blue tiberium can be used as a "harv bomb". Harv Bombs deal enough damage to destroy a War Factory or a Refinery.
-Control your Harvesters! Harvest the tiberium closest to your Refinery. If available, always harvest blue tiberium if nearby.
+Расположите здание под садящейся вражеской Касаткой Перевозчиком, чтобы временно прервать посадку.
+Комбайны наполненные синим тиберием можно использовать в качестве бомб. Урон от их взрыва уничтожает Военный Завод или Обогатитель.
+Следите за экономикой! Ставьте Обогатители рядом с тибериевыми месторождениями. Если есть возможность поблизости подобывать синий тиберий, то не упускайте такую возможность.
 Чем ближе Язык Дьявола к зданию, тем больше он наносит урон.
-Harvesting tiberium closest to the tiberium tree will allow the tiberium field to last slightly longer.
+Собирая тиберий близко к тибериевому дереву, это позволит тибериевому полю продержаться немного дольше.
 Using G while having a group of units select puts them into Guard mode. Units in Guard mode will automatically seek targets that are nearby.
-A Ghost can kill a Carryall in one shot if you're able to shoot it right as it lands.
+Сталкер Призрак может убить Косатку Перевозчик с одного выстрела, если он будет на достаточно близком расстоянии.
 To protect yourself from a Nod Engineer rush, you can put infantry around a building, use static defense, or use a waypointed bomber defense.
 Waypoints are very useful in Tiberian Sun. They can be used to Engineer buildings and have air units automatically attack units.
-You can automatically reload your aircraft by having a waypoint loop on a Helipad.
+Вы можете автоматически загружать припасы в авиацию, имея цикл, составленный из меток пути, где одна из меток стоит на Вертолётной Плошадке.
 Титан может Дезинтегратор только после 7 выстрелов.
 Subterannean units can surface directly under an Engineer to kill them. Use a force move command to do so (ALT).
 3 Косатки Бомбардировщика могут уничтожить Обогатитель, если вы будете атаковать его по диагонали.
