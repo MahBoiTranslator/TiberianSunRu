@@ -8,8 +8,8 @@ After technology is acquired, you can sell it. You don't have to keep it in orde
 After giving your Carryall the command to land on a unit, you can order that unit to fire at a target, so it will keep firing until the Carryall lands. It will also start shooting right after being released again.
 Orca Bombers tend to waste a lot of bombs when being told to attack a building. You can "power bomb" by flying them close to the building first, and then attacking it.
 Use CTRL to force fire. You can use force fire to extend the range of Disc Throwers.
-Select a production building and hold ALT to create a rally point.
-3 Light Infantry can kill a single Light Infantry walking by.
+Выберите производственное здание, зажмите Alt, и кликните ЛКМ по свободному месту, чтобы поставить точку сбора (устарело, теперь Alt не требуется).
+3 Лёгких Пехотинца могут убить пробегающего мимо Лёгкого Пехотинца.
 If you want to protect your base from Disruptor drops with RPGs, place them a couple of cells apart so that they cover each others blind spots.
 5 Банши за один залёт уничтожают Дезинтегратор.
 10 Банши за один залёт могут уничтожить Строительный Цех/Военный Завод/Обогатитель.
@@ -19,18 +19,18 @@ You can sell vehicles by placing them onto your, or your an ally's, Service Depo
 Place a building underneathe a landing enemy Carryall to temporarily prevent it from landing.
 Harvesters full of blue tiberium can be used as a "harv bomb". Harv Bombs deal enough damage to destroy a War Factory or a Refinery.
 Control your Harvesters! Harvest the tiberium closest to your Refinery. If available, always harvest blue tiberium if nearby.
-Devil's Tongues deal more damage to buildings the closer they are.
+Чем ближе Язык Дьявола к зданию, тем больше он наносит урон.
 Harvesting tiberium closest to the tiberium tree will allow the tiberium field to last slightly longer.
 Using G while having a group of units select puts them into Guard mode. Units in Guard mode will automatically seek targets that are nearby.
 A Ghost can kill a Carryall in one shot if you're able to shoot it right as it lands.
 To protect yourself from a Nod Engineer rush, you can put infantry around a building, use static defense, or use a waypointed bomber defense.
 Waypoints are very useful in Tiberian Sun. They can be used to Engineer buildings and have air units automatically attack units.
 You can automatically reload your aircraft by having a waypoint loop on a Helipad.
-It takes 7 shots from a Titan to kill a Disruptor.
+Титан может Дезинтегратор только после 7 выстрелов.
 Subterannean units can surface directly under an Engineer to kill them. Use a force move command to do so (ALT).
-3 Orca Bombers can take out a Refinery if you attack it diagonally.
-You can hijack an enemy's Harvester full of blue tiberium and use it to harv bomb your opponent. Try to steal a full one that is already heading back to their Refinery.
+3 Косатки Бомбардировщика могут уничтожить Обогатитель, если вы будете атаковать его по диагонали.
+Вы можете украсть вражеский Комбайн полностью наполненный синим тиберием и использывать его как бомбу. Попробуйте его украсть, когда он будет возвращаться к Обогатителю.
 You can draw out your enemy's defensive units by attacking their Harvesters, which will leave their base less heavily guarded and ripe for attack.
-If you destroy a bridge with units on it, the units will fall into the water and be destroyed.
+Если вы уничтожите мост, то юниты, которые были на нём, при падении разобьются насмерть.
 The most effective way to bomb (GDI bomber) a bunch of Titans is to wait until the Titans get to your base and group up in order to attack you. When the titans group up, bomb them from behind… towards your base. Bombing in this way will maximize the number of bombs that hit the Titans.
-You can't repair an Orca Bomer on an ally's Service Depot. 
+Вы не можете ремонтировать технику в союзных Ремонтных Депо.
