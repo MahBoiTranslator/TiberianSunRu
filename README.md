@@ -7,4 +7,7 @@
 	2) Tiberian Sun Client                     : https://www.moddb.com/mods/tiberian-sun-client
 	3) Tiberian Sun из C&C Ultimate Collection : https://www.origin.com/nld/ru-ru/store/command-and-conquer/command-and-conquer-the-ultimate-collection
 
+Ссылки на актуальные локализаторы для TS:
+1) Tiberian Sun Online : https://github.com/MahBoiTranslator/TiberianSunRu/archive/v1.0-TSO.zip
+
 Все вопросы и пожелания вы можете отправлять на почту: *mah.boi.translator@gmail.com*
