@@ -7,4 +7,5 @@
 Готовые локализаторы для TS:
 * [Tiberian Sun Online](https://github.com/MahBoiTranslator/TiberianSunRu/archive/v1.3-TSO.zip)
 
-Все вопросы и пожелания вы можете отправлять на почту: *mah.boi.translator@gmail.com*
+## Поддержка
+Если вы желаете, чтобы русификатор обновлялся сразу после выхода новой версии мода, постоянно поддерживался и развивался, то поддержите денежно мои старания на платформе [boosty](https://boosty.to/mah_boi).
